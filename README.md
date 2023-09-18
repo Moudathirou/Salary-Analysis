@@ -12,9 +12,9 @@
 
 create new environment
 
-----
+---
 
 python m-venv <name_environment> 
 
-----
+---
 
